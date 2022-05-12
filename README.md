@@ -1,4 +1,6 @@
-## Hi! Eu sou a Iasmin Dias, estudante de programação e futura programadora full stack! ❤
+## Hi! Bem-vind@ ao meu perfil! 
+## Eu sou a Iasmin Dias, estudante de programação e futura programadora full stack! ❤👩🏻‍💻
+
 <div align="center">
   <a href="https://github.com/cddmiasmin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cddmiasmin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
