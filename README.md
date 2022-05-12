@@ -1,5 +1,5 @@
-## Hi! Bem-vind@ ao meu perfil! 
-## Eu sou a Iasmin Dias, estudante de programação e futura programadora full stack! ❤👩🏻‍💻
+Hi! Bem-vind@ ao meu perfil! 
+Eu sou a Iasmin Dias, estudante de programação e futura programadora full stack! ❤
 
 <div align="center">
   <a href="https://github.com/cddmiasmin">
