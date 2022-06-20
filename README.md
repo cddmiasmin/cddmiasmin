@@ -25,6 +25,8 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+<div style="width:100%;height:0;padding-bottom:32%;position:relative;"><iframe src="https://giphy.com/embed/eGlWh8b2oDeSuFjGM6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/developer-germano-obrunogermano-eGlWh8b2oDeSuFjGM6">via GIPHY</a></p>
 </div>
  
   ##
