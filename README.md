@@ -1,20 +1,25 @@
-## Hi! Bem-vind@ ao meu perfil! 
+<div align="center">
+  
+## Bem-vind@ ao meu perfil! 
+  
+### Um pouco sobre mim...  <img src="https://media3.giphy.com/media/9oIfgIoERXr58rIDx8/giphy.gif?cid=ecf05e4758nxsxablvj0gch5chgfu6xftghypouthsfq2yjc&rid=giphy.gif" width="32"> 
+    Programadora iniciante focando meus estudos na carreira Full-Stack!
 
-<div align="center"><br>
+<br>
   <a href="https://github.com/cddmiasmin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cddmiasmin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cddmiasmin&layout=compact&langs_count=7&theme=tokyonight"/>
 
-### Um pouco sobre mim...  <img src="https://media3.giphy.com/media/9oIfgIoERXr58rIDx8/giphy.gif?cid=ecf05e4758nxsxablvj0gch5chgfu6xftghypouthsfq2yjc&rid=giphy.gif" width="30"> 
-    Programadora iniciante focando meus estudos na carreira Full-Stack!
 
-###  📚 O que estou estudando atualmente:
+##  📚 O que estou estudando atualmente:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-   
-###  ⚙️ Algumas ferramentas e tecnologias que uso:     
+
+<br>
+    
+##  ⚙️ Algumas ferramentas e tecnologias que uso:     
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -31,13 +36,12 @@
 
 <img src="https://media2.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif?cid=ecf05e47tfcodme8ehescnhfzd8w02qhp3ef2qxlky133nr5&rid=giphy.gif"  width="100" height="100">
 
-
 ## 📫 Como chegar até mim?
   <a href = "mailto:costa.iasmin@outlook.com"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/iasmin-dias-980277216/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "https://www.instagram.com/okiasmin/"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+    
+    
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
