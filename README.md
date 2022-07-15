@@ -3,7 +3,7 @@
 ## Bem-vind@ ao meu perfil! 
   
 ### Um pouco sobre mim...  <img src="https://media3.giphy.com/media/9oIfgIoERXr58rIDx8/giphy.gif?cid=ecf05e4758nxsxablvj0gch5chgfu6xftghypouthsfq2yjc&rid=giphy.gif" width="32"> 
-    Programadora iniciante focando meus estudos na carreira Full-Stack!
+    Programadora iniciante e estudante de programação da FATEC!
 
 <br>
   <a href="https://github.com/cddmiasmin">
